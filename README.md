@@ -7,13 +7,8 @@ I am Ruthwik Chivukula, a third year mechanical engineering undergrad at IIT Mad
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RC-circuit)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills and Experience: 
-* Pytorch
-* MATLAB
-* OpenFOAM
-* Sklearn
-* Pandas
-* Numpy
-* Figma
+Pytorch / MATLAB / OpenFOAM / Sklearn / Pandas / Numpy / Figma
+
 ## More about myself
 - 🔭 I’m currently working on myself! 
 - 🌱 I’m currently learning scientific ML, Computational Fluid Dynamics, state of the art deep learning models 
@@ -23,9 +18,5 @@ I am Ruthwik Chivukula, a third year mechanical engineering undergrad at IIT Mad
 - ⚡ Fun fact: Cricket anytime anywhere 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RC-circuit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ruthwik-chivukula-09027123a/)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RC-circuit)  
-
-
 
 

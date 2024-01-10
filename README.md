@@ -1,10 +1,9 @@
-[![MasterHead](https://en.wikipedia.org/wiki/File:Cylinder_flow.gif)]
+![Banner Gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3ACylinder_flow.gif&psig=AOvVaw0XR63F-R7Z13pWgKSXmVe1&ust=1704951540527000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICS4cmN0oMDFQAAAAAdAAAAABAj)
+
 <h1 align="center">Hi 👋, I'm Ruthwik Chivukula</h1>
 <h3 align="center">A passionate mechanical engineering third year undergraduate at IIT Madras. Exploring data driven models and ML/DL applications in fluid dynamics and computation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-circuit&label=Profile%20views&color=0e75b6&style=flat" alt="rc-circuit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rc-circuit" alt="rc-circuit" /></a> </p>
 
 - 🌱 I’m currently learning **more about scientific machine learning and applications of AI in fluid simulations**
 
@@ -28,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rc-circuit&show_icons=true&locale=en" alt="rc-circuit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rc-circuit&" alt="rc-circuit" /></p>
-

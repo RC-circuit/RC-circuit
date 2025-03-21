@@ -14,9 +14,5 @@ I am Ruthwik Chivukula, a third year mechanical engineering undergrad at IIT Mad
 - 🌱 I’m currently learning scientific ML, Computational Fluid Dynamics, state of the art deep learning models 
 - 👯 I’m looking to collaborate on Deep Learning projects for CFD 
 - 💬 Ask me about anything, we can surely have a fun discussion 
-- 📫 How to reach me: ruthwik2003@gmail.com 
-- ⚡ Fun fact: Cricket anytime anywhere 
+- 📫 How to reach me: ruthwik2003@gmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RC-circuit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ruthwik-chivukula-09027123a/)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RC-circuit)

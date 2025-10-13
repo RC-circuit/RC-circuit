@@ -9,7 +9,7 @@ I am Ruthwik Chivukula, a first year Ph.D. graduate student at Brown University.
 * 🔬 Research Intern, Computational Data Sciences IISc Bangalore (2023-2025)
 * 🏦 Data Analyst Intern, AI Labs American Express (2024)
 * 🚀 Team Lead, AI Club, IIT Madras (2023-2024)
-* 🔧 Mechanical Engineering UG, IIT Madras (2021-2025)
+* 🔧 Mechanical Engineering UG (Honors) + Minor in Artificial Intelligence, IIT Madras (2021-2025)
 
 ## More about myself
 - 🌱 I’m currently working on hybrid PDE solvers and Neural Operators 

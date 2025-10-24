@@ -14,6 +14,6 @@ I am Ruthwik Chivukula, a first year Ph.D. graduate student at Brown University.
 ## More about myself
 - 🌱 I’m currently working on hybrid PDE solvers and Neural Operators 
 - 👯 I’m looking to collaborate on Deep Learning projects for CFD 
-- 💬 Always in for discussions about STEM topics, Cricket, pencil art and painting
+- 💬 Always in for discussions about STEM topics & Cricket!
 - 📫 How to reach me: ruthwik_chivukula@brown.edu
 
